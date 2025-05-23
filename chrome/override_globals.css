@@ -1,0 +1,10 @@
+
+* {
+  --dtui-theme-main-color: 30, 30, 46;
+  --dtui-theme-secondary-color: 49, 50, 68;
+  --dtui-theme-accent-color: 137, 220, 235;
+  --dtui-theme-text-color: 205, 214, 244;
+
+  --dtui-theme-separator-color: rgba(var(--dtui-theme-text-color), 0.1);
+  --dtui-theme-border-color: rgba(var(--dtui-theme-text-color), 0);
+}
