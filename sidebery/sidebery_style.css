@@ -1,9 +1,9 @@
 * {
   --dtui-theme-color-scheme: dark;
-  --dtui-theme-main-color: 30, 34, 44;
-  --dtui-theme-secondary-color: 35, 40, 52;
-  --dtui-theme-accent-color: 58, 104, 175;
-  --dtui-theme-text-color: 240, 240, 240;
+  --dtui-theme-main-color: 30, 30, 46;
+  --dtui-theme-secondary-color: 49, 50, 68;
+  --dtui-theme-accent-color: 137, 220, 235;
+  --dtui-theme-text-color: 205, 214, 244;
 
   --dtui-theme-accent-low-alpha: 0.5;
   --dtui-theme-accent-mid-alpha: 0.75;
